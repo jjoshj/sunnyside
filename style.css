@@ -1,0 +1,263 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&family=Open+Sans+Condensed:wght@300&display=swap');
+
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Hahmlet', serif;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+.container-fluid{
+    background-color: #7BC4D3;
+    padding: 1% 0% 1% 0%;
+   
+}
+.navbar-brand{
+    background-image: s;
+    font-weight: bolder;  
+}
+.maindiv{
+    display: grid;
+}
+
+.one{
+background-image: url('https://t3.ftcdn.net/jpg/02/78/98/76/360_F_278987694_zCgY1v6eZSfNHKS2sKNbRhkeE3Dcj53Z.jpg');
+background-repeat: no-repeat, repeat;  
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 320%;
+    font-weight: bolder;
+    color: white;
+    font-family: 'Hahmlet', serif;
+}
+.two{
+    
+    height: 450px;
+    text-align: center;
+    padding-top: 45px;
+    font-size: 220%;
+    font-weight: bolder;
+    font-family: 'Hahmlet', serif;
+}
+
+.twoSub1{
+    font-weight: lighter;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 70%;
+}
+.twoSub2{
+    font-size: 50%;
+    opacity: 0.3;
+    font-weight: bolder;
+    font-family: 'Hahmlet', serif;
+}
+.three{
+    background-image: url('https://st2.depositphotos.com/25797126/i/600/depositphotos_443166898-stock-photo-white-egg-yellow-background-yellow.jpg');
+background-repeat: no-repeat, repeat;  
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+}
+.four{
+    width: 100%;
+    height: 450px;
+    text-align: center;
+    padding-top: 45px;
+    font-size: 220%;
+    font-weight: bolder;
+    font-family: 'Hahmlet', serif;
+}
+.five{
+    background-image: url('https://previews.123rf.com/images/oatloveit/oatloveit1802/oatloveit180200030/95600540-coffee-pink-cup-on-pink-pastel-background-with-clipping-path-minimal-and-love-concept-3d-render-.jpg');
+    background-repeat: no-repeat, repeat;  
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 450px;
+}
+.cherry{
+    background-image: url('https://images.wallpaperscraft.com/image/cherry_fruit_white_background_162203_1280x720.jpg');
+    background-repeat: no-repeat, repeat;  
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        color: rgb(255, 0, 0);
+        height: 650px;
+        text-align: center;
+        padding-top: 80px;
+        font-size: 220%;
+        font-weight: bolder;
+        font-family: 'Hahmlet', serif; 
+}
+.singleorange{
+    background-image: url('https://s3.envato.com/files/331319812/_MG_8888%20__________.jpg');
+    background-repeat: no-repeat, repeat;  
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 650px; 
+        color: darkorange;
+        text-align: center;
+        padding-top: 80px;
+        font-size: 220%;
+        font-weight: bolder;
+        font-family: 'Hahmlet', serif; 
+}
+.six{
+    text-align: center;
+   padding-top: 2%;
+   padding-bottom: 2%;
+  opacity: 0.3;
+    font-weight: bolder;
+   font-size: 25px;
+    font-family: 'Hahmlet', serif;
+}
+.seven{
+    width: 100%;
+    height: 450px;
+    text-align: center;
+   
+    font-size: 200%;
+    padding: 45px 60px 30px 60px;
+
+}
+.sevenSub1{
+    font-weight: lighter;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 70%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.img{
+    height: 90px;
+    width: 90px;
+    border-radius: 55%;
+    margin-bottom: 5%;
+}
+.name{
+    font-family: 'Hahmlet', serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.ten{
+    display: grid;
+    grid-template-columns: 1fr 1fr  ;
+}
+.milk{
+    background-image: url('https://i.pinimg.com/originals/58/45/a7/5845a7cb1fa2befedbb62a650f9e8e25.jpg');
+    background-repeat: no-repeat, repeat;  
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 250px;
+}
+.orange{
+    background-image: url('https://images.snapwi.re/ee1e/5bb13c9aba96d5b88d770330.w800.jpg');
+    background-repeat: no-repeat, repeat;  
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 250px;
+}
+.cone{
+    background-image: url('http://images.unsplash.com/photo-1559703248-dcaaec9fab78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8Y29uZXx8MHx8fHwxNjI3MzI4OTY4&ixlib=rb-1.2.1&q=80&w=1080');
+    background-repeat: no-repeat, repeat;  
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 250px;
+}
+.suger{
+    background-image: url('https://www.heart.org/-/media/images/healthy-living/healthy-eating/sugar_cubes.jpg');
+    background-repeat: no-repeat, repeat;  
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 250px;
+}
+.eleven{
+    width: 100%;
+    height: 450px;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 320%;
+    font-weight: bolder;
+    color: #5495C5;
+    background-color: #A0C8EC;
+    font-family: 'Hahmlet', serif;
+}
+.footerDetail{
+    font-size: 80%;
+    font-weight:lighter;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+@media (min-width: 950px){
+    .maindiv{
+        display: grid;
+   
+    }
+    .one{
+        grid-column: span 4;
+    }
+    .subdiv{
+        grid-column: span 4;
+        display: grid;
+        
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .two{
+        grid-column: span 2;
+        text-align: left;
+        padding-left: 25%;
+        padding-top: 120px;
+    }
+    .three{
+        
+        grid-column: span 2;
+    }
+    .four{
+        padding-top: 120px;
+        text-align: left;
+        padding-left: 25%;
+        grid-column: span 2;
+    }
+    .five{
+      
+        grid-column: span 2;
+    }
+    .cherry{
+        grid-column: span 2;
+    }
+    .singleorange{
+        grid-column: span 2;
+    }
+    .six{
+        grid-column: span 4;
+    }
+    .person{
+        grid-column: span 4;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .ten{
+        grid-column: span 4;
+    }
+    .eleven{
+        grid-column: span 4;
+    }
+    .tweel{
+        grid-column: span4;
+    }
+    .ten{
+        grid-template-columns: 1fr 1fr 1fr 1fr  ;
+    }
+
+}
